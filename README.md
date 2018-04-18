@@ -1,3 +1,4 @@
 # hello-world
-hello-world\n
+hello-world
+
 To be or not to be?
